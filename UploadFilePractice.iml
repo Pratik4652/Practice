@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://D:/Project/UploadFilePractice/lib/exceldataprovider.jar!/" />
+    <libelement value="jar://D:/Project/UploadFilePractice/lib/excelreader_selenium-v3.1.jar!/" />
+    <libelement value="jar://D:/Project/UploadFilePractice/lib/selenium-chrome-driver-3.7.1.jar!/" />
+    <libelement value="jar://D:/Project/UploadFilePractice/lib/selenium-server-standalone-3.7.1.jar!/" />
+    <libelement value="jar://D:/Project/UploadFilePractice/lib/testng-6.11.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="exceldataprovider.jar">
+        <CLASSES>
+          <root url="jar://D:/Project/UploadFilePractice/lib/exceldataprovider.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="excelreader_selenium-v3.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Project/UploadFilePractice/lib/excelreader_selenium-v3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="selenium-chrome-driver-3.7.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Project/UploadFilePractice/lib/selenium-chrome-driver-3.7.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="selenium-server-standalone-3.7.1.jar">
+        <CLASSES>
+          <root url="jar://D:/Project/UploadFilePractice/lib/selenium-server-standalone-3.7.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="testng-6.11.jar">
+        <CLASSES>
+          <root url="jar://D:/Project/UploadFilePractice/lib/testng-6.11.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

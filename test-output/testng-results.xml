@@ -6,20 +6,20 @@
     <groups>
     </groups>
     <test name="Default test" duration-ms="14330" started-at="2018-05-28T04:04:07Z" finished-at="2018-05-28T04:04:21Z">
-      <class name="Setup">
-        <test-method status="PASS" signature="LoginSetup()[pri:0, instance:Setup@2344fc66]" name="LoginSetup" is-config="true" duration-ms="7228" started-at="2018-05-28T09:49:07Z" finished-at="2018-05-28T09:49:14Z">
+      <class name="test.Setup">
+        <test-method status="PASS" signature="LoginSetup()[pri:0, instance:test.Setup@2344fc66]" name="LoginSetup" is-config="true" duration-ms="7228" started-at="2018-05-28T09:49:07Z" finished-at="2018-05-28T09:49:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginSetup -->
-        <test-method status="PASS" signature="FileUpload()[pri:0, instance:Setup@2344fc66]" name="FileUpload" duration-ms="1534" started-at="2018-05-28T09:49:14Z" finished-at="2018-05-28T09:49:16Z">
+        <test-method status="PASS" signature="FileUpload()[pri:0, instance:test.Setup@2344fc66]" name="FileUpload" duration-ms="1534" started-at="2018-05-28T09:49:14Z" finished-at="2018-05-28T09:49:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FileUpload -->
-        <test-method status="PASS" signature="BrowserExit()[pri:0, instance:Setup@2344fc66]" name="BrowserExit" is-config="true" duration-ms="5541" started-at="2018-05-28T09:49:16Z" finished-at="2018-05-28T09:49:21Z">
+        <test-method status="PASS" signature="BrowserExit()[pri:0, instance:test.Setup@2344fc66]" name="BrowserExit" is-config="true" duration-ms="5541" started-at="2018-05-28T09:49:16Z" finished-at="2018-05-28T09:49:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BrowserExit -->
-      </class> <!-- Setup -->
+      </class> <!-- test.Setup -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
